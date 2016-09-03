@@ -51,3 +51,4 @@ def mode_calc(input):
 
 
 print "Mode using simple Python: ", mode_calc(input)
+
